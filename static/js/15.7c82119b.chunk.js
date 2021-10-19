@@ -1,0 +1,2 @@
+(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[15],{746:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/ArrowTailRight.7cddb576.svg"}}]);
+//# sourceMappingURL=15.7c82119b.chunk.js.map
