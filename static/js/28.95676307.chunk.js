@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[28],{759:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/Cryption.523ba27b.svg"}}]);
-//# sourceMappingURL=28.95676307.chunk.js.map
