@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[36],{773:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/YearnFinance.2d0117a8.svg"}}]);
-//# sourceMappingURL=36.60f26390.chunk.js.map

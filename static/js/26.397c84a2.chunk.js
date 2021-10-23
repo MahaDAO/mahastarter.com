@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[26],{763:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/GreenCheck.140c2982.svg"}}]);
-//# sourceMappingURL=26.397c84a2.chunk.js.map

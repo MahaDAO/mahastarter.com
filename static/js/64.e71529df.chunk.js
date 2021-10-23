@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[64],{801:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/Telegram.dc961d8d.svg"}}]);
-//# sourceMappingURL=64.e71529df.chunk.js.map
