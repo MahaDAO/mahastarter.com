@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[33],{835:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/MAHAStarterlg.d51a6552.svg"}}]);
-//# sourceMappingURL=33.6e3f5b08.chunk.js.map
