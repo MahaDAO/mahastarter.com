@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[97],{900:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/HOPE.07af1f53.svg"}}]);
-//# sourceMappingURL=97.c0e092ab.chunk.js.map
