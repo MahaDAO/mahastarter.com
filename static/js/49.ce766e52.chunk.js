@@ -1,0 +1,2 @@
+(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[49],{853:function(s,a,t){"use strict";t.r(a),a.default=t.p+"static/media/Sushiswap.45568f60.svg"}}]);
+//# sourceMappingURL=49.ce766e52.chunk.js.map

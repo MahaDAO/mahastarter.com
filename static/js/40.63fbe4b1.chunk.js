@@ -1,2 +1,0 @@
-(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[40],{843:function(a,s,t){"use strict";t.r(s),s.default=t.p+"static/media/CosmicFinance.e93ed9d4.svg"}}]);
-//# sourceMappingURL=40.63fbe4b1.chunk.js.map

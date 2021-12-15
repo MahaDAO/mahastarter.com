@@ -1,0 +1,2 @@
+(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[45],{849:function(t,a,s){"use strict";s.r(a),a.default=s.p+"static/media/Kucoin.eefed975.svg"}}]);
+//# sourceMappingURL=45.f5d1718e.chunk.js.map

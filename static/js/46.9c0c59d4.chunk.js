@@ -1,0 +1,2 @@
+(this["webpackJsonpmaha-starter"]=this["webpackJsonpmaha-starter"]||[]).push([[46],{850:function(a,t,s){"use strict";s.r(t),t.default=s.p+"static/media/PancakeSwap.e9c208de.svg"}}]);
+//# sourceMappingURL=46.9c0c59d4.chunk.js.map
